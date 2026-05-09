@@ -1,0 +1,45 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+
+# Testing
+.pytest_cache/
+
+# Environment variables
+.env
+.env.local
+
+# IDEs
+.vscode/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+.eggs/
+*.whl
+
+# Keep this file versioned
+!LEIAME.md
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+
